@@ -165,6 +165,7 @@ consider only non-zero, non-negative numbers from the given array.
 Note 2: If no number is repeated then the output should be the first element
 of the array.
 Note 3: If all elements in the array are negative or 0’s the output should be 0.
+
 **Answer** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/FirstOccuringinarray.java]
 
 **Question 6:**
@@ -240,4 +241,5 @@ Example 1: If the array elements are (10, 20, 30, 40, 50, 60, 70, 80, 90, 100), 
 Example 2: If the array elements are (-1, -2, -3, 3, 4, -7}, then the values at the non-prime index are -1,-2, 4 and their sum is 1.
 
 Example 3: If the array elements are {-4, -2), the values at the non-prime index are -4,-2 and their sum is -6.
+
 **Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/NonprimeIndex.java]  
