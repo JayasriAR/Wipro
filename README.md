@@ -29,7 +29,7 @@ If  input1[ ] = {12,51,100,212,15,12,7,3,57,300,312,78,19,100,102,101,99,74,0,-5
 and  input2 = 20
 output1 should be 3
 output2 should be 6
-**Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/DecreasingSequence.java]
+**Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/DecreasingSequence.java](#question-1)
 
 
 ### Question 2:
