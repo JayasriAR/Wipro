@@ -31,7 +31,7 @@ and  input2 = 20
 output1 should be 3
 output2 should be 6
 
-**Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/DecreasingSequence.java]
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/DecreasingSequence.java)
 
 
 **Question 2:**
@@ -68,7 +68,7 @@ Output3 = “NNYHAN”
 Anand approaches you to help him write a program that would do the above mentioned processing on any given three strings and generate the resulting three output strings
 Note that the three output strings should be returned as members of a "Result" object/struct.
 
- **Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/EncodeThreeStrings.java]
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/EncodeThreeStrings.java)
 
 **Question 3:**
 **Simple Encoded Array:** Maya has stored few confidential numbers in an array (array of int). To ensure that others do not find the numbers easily, she has applied a simple encoding.
@@ -109,7 +109,7 @@ The Original array should have been {8,-10,3,-15}
 So, First number in original array = 8
 Sum of all numbers in original array = -1
 
-**Answers:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/EncodedArray.java]
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/EncodedArray.java)
 
 **Question  4:**
 **FindStringCode**
@@ -145,7 +145,7 @@ Hello = [H-O]+[E-L]+[L] = [8-15]+[5-12]+[12] = [7]+[7]+[12] = [26]
 World = [W-D]+[O-L]+[R] = [23-4]+[15-12]+[18] = [19]+[3]+[18] = [40]
 Result = Number formed by concatenating [26] and [40] = 2640
 
-**Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/Findstringcode.java]
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/Findstringcode.java)
 
 **Question 5:**
 **FIND FIRST REPEATED ELEMENT IN THE GIVEN ARRAY FROM THE FIRST INDEX:**
@@ -167,7 +167,7 @@ Note 2: If no number is repeated then the output should be the first element
 of the array.
 Note 3: If all elements in the array are negative or 0’s the output should be 0.
 
-**Answer** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/FirstOccuringinarray.java]
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/FirstOccuringinarray.java)
 
 **Question 6:**
 
@@ -192,7 +192,7 @@ Let us add lengths of all words to get the Total Length = 3+4+3+3+3+3+4 = 23
 Total Length = 23, which is not yet a single digit, so let us continue adding all digits of the Total Length, i.e. 2+3 = 5
 Therefore, single-digit numeric PIN = 5
 
-**Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/GetcodethroughStrings.java]
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/GetcodethroughStrings.java)
 
 **Question 7:**
 
@@ -226,7 +226,7 @@ Input1 will contain only a single word with only 1 character replaced by an unde
 Input2 will contain a series of words separated by colons and NO space character in between
 Input2 will NOT contain any other special character other than underscore and alphabetic characters.
 
-**Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/IdentifyPossibleStrings.java]
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/IdentifyPossibleStrings.java)
 
 **Question 8:**
 
@@ -243,4 +243,4 @@ Example 2: If the array elements are (-1, -2, -3, 3, 4, -7}, then the values at 
 
 Example 3: If the array elements are {-4, -2), the values at the non-prime index are -4,-2 and their sum is -6.
 
-**Answer:** [https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/NonprimeIndex.java]  
+[**Answer:**](https://github.com/JayasriAR/Wipro/blob/master/Wipro/src/com/cg/wipro/milestone2/NonprimeIndex.java)
